@@ -1,2 +1,1 @@
-adding text to this file
-adding text from master branch
+add new line from branch
